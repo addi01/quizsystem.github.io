@@ -57,9 +57,3 @@ body{
     color: white;
 
 }
-@media(max-width:150vh){
-    body{
-        display: none;
-    }
-
-}
